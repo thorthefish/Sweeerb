@@ -2,8 +2,7 @@
 A coaxial swerve robot designed to be a base for FTC gameplay.
 This design is predominantly 3D printed design, optimized for speed and customizability.
 
-![[color_5.png]]
+![Pictures/Renders/color_5.png]
 
 The design consists of 4 individual wheel modules which each contain 6000rpm drive motors-shifted to 750 rpm at the wheel-for power and Axon Mini v2s for steering. 
-
-![[modu_2.png]]
+![Pictures/Renders/modu_2.png]
