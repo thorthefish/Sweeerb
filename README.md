@@ -4,7 +4,7 @@
 A coaxial swerve robot designed to be a base for FTC gameplay.
 This design is predominantly 3D printed design, optimized for speed and customizability.
 
-![Bask in the glory of the almighty sweeeeerby katiee(she/they)](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/color_5.png)
+![Bask in the glory of the almighty sweeeeerby katiee(she/they)](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/thumb_5.PNG)
 
 -----
 ## Features
@@ -50,9 +50,9 @@ The design consists of 4 individual wheel modules which each contain 6000rpm dri
 
 
 ----
-## Pictures n' shit
+## Pictures Gallery
 
-| ![Module](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/modu_2.png) | ![Module](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/modu_2.png) |
+| ![Module](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/modu_3.png) | ![Module](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/space_2.png) |
 |---|---|
-| ![Module](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/modu_2.png) | ![Module](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/modu_2.png) |
-| ![Module](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/modu_2.png) | ![Module](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/modu_2.png) |
+| ![Module](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/color_3.png) | ![Module](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/modu_2.png) |
+| ![turny](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/color_4.png) | ![Module](https://github.com/thorthefish/Sweeerb/blob/main/Pictures/Renders/color_5.png) |
