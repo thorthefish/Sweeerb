@@ -42,7 +42,7 @@ The design consists of 4 individual wheel modules which each contain 6000rpm dri
 |32mm steel rex shaft                    |4    |2.92 |11.68         |         |https://www.gobilda.com/8mm-rex-shaft-with-e-clip-stainless-steel-32mm-length/                        |
 |50mm aluminum rex shaft                 |5    |4.49 |22.45         |4 pack   |https://www.gobilda.com/1516-series-8mm-rex-standoff-m4-x-0-7mm-threads-50mm-length-4-pack/           |
 |20t motor drive pulley                  |4    |5.99 |23.96         |         |https://www.gobilda.com/2mm-pitch-gt2-pinion-timing-pulley-1-8-bore-20-tooth/                         |
-|Bevel gear set                          |4    |29.99|119.96        |         |https://www.offsetrobotics.com/product/offset-bevels/                                                 |
+|Bevel gear set -- trying 3dp first      |0    |29.99|~119.96~ 0    |         |https://www.offsetrobotics.com/product/offset-bevels/                                                 |
 |3" OD x 2.5" ID x .25" X-Contact Bearing|4    |29.99|119.96        |         |https://www.thethriftybot.com/products/3-od-x-2-5-id-x-25-x-contact-bearing?variant=45951170904363    |
 |8mm x 14mm flanged bearing              |3    |9.99 |29.97         |10 pack  |https://swyftrobotics.com/products/bearings?variant=51004142190886                                    |
 |PLA pro black                           |1    |19.2 |19.2          |1kg      |https://shop.polymaker.com/products/polymaker-pla-pro?variant=41550910652473                          |
