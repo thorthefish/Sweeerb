@@ -18,6 +18,12 @@ The design consists of 4 individual wheel modules which each contain 6000rpm dri
 -   25 kgf/cm
 - mostly 3dp
 
+-----
+
+## Assembly Instructions
+
+https://github.com/thorthefish/Sweeerb/blob/main/ASSEMBLY.md
+
 ----
 ## BOM
 
