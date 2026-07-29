@@ -21,6 +21,8 @@ The design consists of 4 individual wheel modules which each contain 6000rpm dri
 ----
 ## BOM
 
+$650 with taxes & shipping
+
 |Item                                    |Count|Cost |Per Item Total|Other    |Link                                                                                                  |
 |----------------------------------------|-----|-----|--------------|---------|------------------------------------------------------------------------------------------------------|
 |HTD Timing Belt                         |5    |13.4 |67            |3mm pitch|https://www.mcmaster.com/7939K524/                                                                    |
